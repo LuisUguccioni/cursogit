@@ -1,2 +1,3 @@
 let heroes = require('./superheroes');
-console.log(heroes);
+console.log(heroes); // prueba
+
