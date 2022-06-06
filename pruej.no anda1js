@@ -1,0 +1,7 @@
+let esMultiplo = (a, b) => {
+    let resto = a % b;   // Obtenemos el resto de la div.
+    return resto == 0 ;  // Si el resto es 0, es múltiplo
+};
+let a = 10;
+let b =5;
+if (esMultiplo ==0) {console.log('true')};
